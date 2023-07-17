@@ -1,0 +1,21 @@
+.wrapper {
+    width: 400px;
+    height: 200px;
+    border-radius: 20px;
+    border: 2px dashed #282c34;
+    /* text-align: center; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    cursor: pointer;
+  }
+  
+  .description {
+    text-decoration: underline;
+  }
+  
+  img {
+    object-fit: cover;
+  }
+  
